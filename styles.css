@@ -1,0 +1,115 @@
+body {
+    background-color: #2F0DC8;
+    text-align: center;
+}
+
+.welcome {
+    background-color: red;
+    border: 10px solid yellow;
+    padding: 5px;
+}
+
+.beginning {
+    font-size: 25px;
+    color: #0CFFB5;
+}
+
+button {
+    font-size: 22px;
+}
+
+.decision {
+    display: none;
+    font-size: 25px;
+    color: #0CFFB5;
+}
+
+.decision2 {
+    display: none;
+    font-size: 25px;
+    color: #0CFFB5;
+}
+
+.outcome2 {
+    display: none;
+    font-size: 25px;
+    color: #0CFFB5;
+}
+
+.whistle {
+    width: 200px;
+    display: none;
+}
+
+.whistle2 {
+    width: 200px;
+    display: none;
+}
+
+.finaldecision {
+    font-size: 25px;
+    color: #0CFFB5;
+    display: none;
+}
+
+.finaldecision2 {
+    font-size: 25px;
+    color: #0CFFB5;
+    display: none;
+}
+
+.yes1 {
+    display: none;
+}
+
+.no1 {
+    display: none;
+}
+
+.game {
+    display: none;
+}
+
+.game2 {
+    display: none;
+}
+
+.risk1 {
+    font-size: 25px;
+    color: #0CFFB5;
+    display: none;
+}
+
+.risk2 {
+    font-size: 25px;
+    color: #0CFFB5;
+    display: none;
+}
+
+.replace1 {
+    font-size: 25px;
+    color: #0CFFB5;
+    display: none;
+}
+
+.replace2 {
+    font-size: 25px;
+    color: #0CFFB5;
+    display: none;
+}
+
+.risk {
+    display: none;
+}
+
+.replace {
+    display: none;
+}
+
+.risktwo {
+    display: none;
+}
+
+.replacetwo {
+    display: none;
+}
